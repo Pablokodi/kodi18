@@ -1,1 +1,1 @@
-# kodi18
+# https://pablokodi.github.io/kodi18/
